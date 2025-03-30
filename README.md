@@ -15,9 +15,9 @@ The **Home Alarm Automation System** is a security project built using **Arduino
 
 
 ## Circuit Diagram or TinkerCad Link
-Below is our TinkerCad Link
+**This is our Circuit Diagram**
 
-**[TinkerCad Arduino]**(Put link right here)
+![TinkerCad Arduino](blob:https://www.messenger.com/23c693dd-7d24-4ef8-87f0-26540720988a)
 
 ## How the System Works (Step-by-step Explanation)
 Output:
