@@ -18,7 +18,7 @@ The **Home Alarm Automation System** is a security project built using **Arduino
 
 
 ## Circuit Diagram or TinkerCad Link
-[Click here to view the TinkerCad Circuit](#) 
+[Click here to view the TinkerCad Circuit](#) _*yes put here if naa nay link*_
 
 ## How the System Works (Step-by-step Explanation)
 
