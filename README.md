@@ -30,6 +30,9 @@ Output:
 3) if there is movement.
 ![alt text](https://scontent-mnl1-1.xx.fbcdn.net/v/t1.15752-9/483088742_656602757311755_3818135389740780242_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeEgJGXih3z1ZXrJS6Qq1iS0ZtzQWLCTooJm3NBYsJOignW7OfKCM25GofVDjO0QH8mkrWDDCyQK9iEtGCUM1bFJ&_nc_ohc=tYbKTSwAkksQ7kNvgHxW6vy&_nc_oc=AdmM7SvirlFAHwPCooNm4Ooh2DIxJNVOSZWYCZlA2NbayiFk_YM4m6PD6xfi4g6IMK0&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&oh=03_Q7cD1wGAwiNBlsaK7Q-ewH7faoVglY0dap8mph7lHOHbIaXMnQ&oe=68105FD1)
 
+![alt text]![image](https://github.com/user-attachments/assets/8a2177ee-1ef0-4fe5-955d-834da6365272)
+
+
 ## How to Run the Arduino Code
 
 
