@@ -31,9 +31,30 @@ Output:
 3) detected movement with light bulb and fan ON.
 ![image](https://github.com/user-attachments/assets/5ef39425-a8dc-40a3-9660-8acff70b6acf)
 
-
-
 ## How to Run the Arduino Code
 
+1) Install the Arduino IDE: Download and install the Arduino IDE from the official Arduino website.
+
+2) Connect the Arduino Board: Use a USB cable to connect your Arduino board to your computer.
+
+3) Select the Board and Port: In the Arduino IDE, go to Tools > Board and select the correct board type (e.g., Arduino Uno). Then, go to Tools > Port and select the appropriate port.
+
+4) Open or Write the Code: Either write your Arduino code or open an existing .ino file.
+
+5) Verify and Upload: Click the ✔ (Check) button to verify the code for errors, then click the → (Upload) button to upload it to the Arduino board.
+
+6) Monitor the Output (Optional): Open the Serial Monitor (Tools > Serial Monitor) to view any real-time data output.
 
 ## Possible Enhancements or Future Improvements
+
+1) Wireless Connectivity: Add a Wi-Fi or Bluetooth module for remote monitoring and control.
+
+2) Sensor Calibration: Improve sensor accuracy by implementing calibration routines.
+
+3) Data Logging: Integrate an SD card module or cloud service for storing sensor readings.
+
+4) Mobile App Integration: Develop a companion mobile app for real-time monitoring and control.
+
+5) Energy Efficiency: Optimize power consumption using low-power modes or alternative power sources like solar panels.
+
+6) AI Integration: Use machine learning to analyze sensor data and make intelligent decisions.
