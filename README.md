@@ -1,5 +1,7 @@
 # Home Alarm Automation System using Arduino (TinkerCad)
 
+**Group Members: Basadre, Bayawa, Nodado, Porpio, Ruelo**
+
 The **Home Alarm Automation System** is a security project built using **Arduino** on **TinkerCad**. This system utilizes sensors to detect motion and triggers an alarm to notify homeowners of potential intrusions. It is designed to provide an affordable and efficient home security solution using easily accessible electronic components.
 
 ##  List of Components Used
